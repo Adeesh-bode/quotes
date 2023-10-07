@@ -1,13 +1,13 @@
 let timer = setInterval(bgchange, 8000);
 
 const bgimg = [
-  'url(/resources/polygon-scatter-haikei1.svg)',
-  'url(/resources/polygon-scatter-haikei2.svg)',
-  'url(/resources/polygon-scatter-haikei3.svg)',
-  'url(/resources/polygon-scatter-haikei4.svg)',
-  'url(/resources/polygon-scatter-haikei5.svg)',
-  'url(/resources/polygon-scatter-haikei6.svg)',
-  'url(/resources/polygon-scatter-haikei7.svg)'
+  'url(resources/polygon-scatter-haikei1.svg)',
+  'url(resources/polygon-scatter-haikei2.svg)',
+  'url(resources/polygon-scatter-haikei3.svg)',
+  'url(resources/polygon-scatter-haikei4.svg)',
+  'url(resources/polygon-scatter-haikei5.svg)',
+  'url(resources/polygon-scatter-haikei6.svg)',
+  'url(resources/polygon-scatter-haikei7.svg)'
 ];
 
 let presentQuote = ""; // Initialize an empty string for the quote
